@@ -1,0 +1,25 @@
+{
+    "Base":
+    {
+        "AV": "N",
+        "AC": "L",
+        "Au": "N",
+        "C": "N",
+        "I": "N",
+        "A": "C"
+    },
+    "Temporal":
+    {
+        "E": "F",
+        "RL": "OF",
+        "RC": "C"
+    },
+    "Environmental":
+    {
+        "CDP": "H",
+        "TD": "H",
+        "CR": "M",
+        "IR": "M",
+        "AR": "H"
+    }
+}
